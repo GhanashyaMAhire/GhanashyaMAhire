@@ -29,32 +29,6 @@ I am actively seeking **AI / ML internships or entry-level roles** where I can c
 
 ---
 
-## 🔥 Featured Projects
-
-### 🧠 RAG-Based Multi-Session AI Chatbot
-- Built a **Retrieval-Augmented Generation (RAG)** chatbot with persistent multi-user memory.
-- Implemented **agent-based reasoning workflows** for document retrieval and tool usage.
-- Designed and deployed an interactive **Streamlit interface** for managing conversations.
-- **Tech:** Python, LangChain, LangGraph, Vector Databases, Streamlit
-
----
-
-### 🎬 Movie Recommender System (Deployed)
-- Developed a **content-based recommender system** using NLP and cosine similarity.
-- Generates personalized movie recommendations based on user input.
-- Deployed as a **public-facing application** on Hugging Face Spaces.
-- **Tech:** Python, Pandas, Scikit-learn, NLP, Streamlit, FastAPI
-
----
-
-### 💻 Laptop Price Prediction System
-- Built a **regression-based ML model** with feature engineering and preprocessing.
-- Evaluated multiple regression algorithms for accurate price prediction.
-- Deployed an interactive prediction app on **Hugging Face Spaces**.
-- **Tech:** Python, Pandas, NumPy, Scikit-learn, Streamlit
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -83,16 +57,6 @@ I am actively seeking **AI / ML internships or entry-level roles** where I can c
 
 **Automation**
 - n8n, API Integrations
-
----
-
-## 📈 What Makes Me Valuable
-
-- ✅ I focus on **deployment**, not just notebooks
-- ✅ I work with **modern GenAI stacks**
-- ✅ I build **production-oriented AI systems**
-- ✅ I document projects clearly and write clean code
-- ✅ I continuously learn and apply new technologies
 
 ---
 
