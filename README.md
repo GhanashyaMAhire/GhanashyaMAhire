@@ -88,22 +88,6 @@
 
 ---
 
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GhanashyaMAhire&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GhanashyaMAhire&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhanashyaMAhire&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🎯 Career Objective
 
 Aspiring **AI and Machine Learning Engineer** seeking an entry-level or internship role to apply my skills in **Python, ML, NLP, and Generative AI** to build scalable, real-world solutions and deliver measurable value to the organization.
@@ -121,4 +105,4 @@ Aspiring **AI and Machine Learning Engineer** seeking an entry-level or internsh
   </a>
 </p>
 
-⭐ *If you like my work, consider starring my repositories.*
+
